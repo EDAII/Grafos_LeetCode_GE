@@ -16,11 +16,9 @@ public:
         for (const auto& t : tickets) {
             adj[t[0]].push_back(t[1]);
         }
-
         for (auto& it : adj) {
             sort(it.second.begin(), it.second.end(), greater<string>());
         }
-
         dfs("JFK");
         reverse(result.begin(), result.end());
         return result;
