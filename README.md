@@ -46,3 +46,7 @@ gcc questao_x.c -o questao_x && ./questao_x
 #### Captura de tela dos resultados
 
 ![Q3](assets/resp_questao3.png)
+
+### Apresentação
+
+[Apresentação 4 YouTube]()
