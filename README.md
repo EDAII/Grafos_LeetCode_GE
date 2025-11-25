@@ -49,4 +49,4 @@ gcc questao_x.c -o questao_x && ./questao_x
 
 ### Apresentação
 
-[Apresentação 4 YouTube]()
+[Apresentação 4 YouTube](https://youtu.be/Q5vWOKgeqNs)
